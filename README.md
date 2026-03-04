@@ -5,11 +5,11 @@ Repositório dedicado aos aprendizados na linguagem Java no curso da Rocketseat.
 # Estrutura do Repositório
 
 ```
-    # O repositório será dividido em pastas e cada pasta será uma aula
+# Esse repositório será dividido em pastas e cada pasta será uma aula
 
-    | 1 - Hello World!
-    | 2 - Primeira Calculadora
-    | Etc.. 
+| 1 - Hello World!
+| 2 - Primeira Calculadora
+| Etc.. 
 ```
 
 ## Em construção. Com o avanço do curso irei expandindo esse repositório.
